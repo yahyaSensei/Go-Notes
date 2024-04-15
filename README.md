@@ -19,6 +19,8 @@ func main() {
 var Myvarr = "hello"
 var myvar string="hello"
 Myslice:=[]strin{"a","b"}
+var zaza, maza = "hello world", "hello maza"
+	fmt.Print(zaza, maza)
 }
 
 ```
@@ -120,8 +122,13 @@ if statemant
 
 ```
 
+best site for built in libraries
+
+https://pkg.go.dev/
 
 ______________________________________
+
+
 
 end unit one in Get Programming with Go and to video 9 with fares walid
 
